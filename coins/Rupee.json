@@ -1,0 +1,6 @@
+{
+    "name": "Rupee",
+    "symbol": "RUP",
+    "algorithm": "lyra2re2",
+    "peerMagic": "3b69ded4"
+}
